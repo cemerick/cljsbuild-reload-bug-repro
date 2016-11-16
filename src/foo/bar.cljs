@@ -1,0 +1,2 @@
+(ns foo.bar)
+
